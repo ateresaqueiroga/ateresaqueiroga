@@ -3,12 +3,10 @@
 ## 🔭 About Me
 Science enthusiast and Biomedical Engineer drawn to challenging and multidisciplinary projects.  
 Currently a **PhD student at the Center for Music in the Brain (MIB), Aarhus University**, working on neuroscience and music (cognitive neuroscience, broadly speaking) 🧠🎹.  
-🎓 Integrated Master’s degree in Biomedical Engineering, specializing in **Medical Informatics**.  
+🎓 Integrated Master’s degree in Biomedical Engineering, specializing in **Medical Informatics** from the University of Minho (Braga, Portugal).  
 
-Outside of work, I’m a bookworm 📚, enjoy worldwide postcard exchanges 📬, running 🏃‍♀️, and balcony gardening 👩🏻‍🌾.  
+Outside of work, I enjoy running (a lot) 🏃‍♀️, reading books 📚, worldwide postcard exchanges 📬, and balcony gardening 👩🏻‍🌾.  
 📫 How to reach me: ateresaqueiroga@gmail.com
-
----
 
 ## 🛠 Skills
 **Languages & Frameworks:**  
@@ -17,12 +15,8 @@ Outside of work, I’m a bookworm 📚, enjoy worldwide postcard exchanges 📬,
 **Tools & Platforms:**  
 `Git` `VS Code`  
 
----
 
 ## 📊 GitHub Stats
-
-![Teresa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ateresaqueiroga&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ateresaqueiroga&layout=compact&theme=radical)
 
 ---
