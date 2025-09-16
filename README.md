@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cropped_cover_page2.png" alt="Cover Image" width="870"/>
+  <img src="./cropped_cover_page2.png" alt="Cover Image" width="850"/>
 </p>
 
 ### Hello! I'm Teresa! 👋
