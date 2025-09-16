@@ -10,7 +10,7 @@
 - 🧠 Working on neuroscience and music (cognitive neuroscience, more specifically)
 - 🎓 Integrated Master’s degree in **Biomedical Engineering**, specializing in **Medical Informatics** from the **University of Minho (Braga, Portugal)**.
 - 📫 How to reach me: ateresaqueiroga@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ateresaqueiroga)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ateresaqueiroga)  
 
 ### 》Skills
 **Languages & Frameworks**  
