@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="./cropped_cover_page2.png" alt="Cover Image" width="835"/>
+  <img src="./cropped_cover_page2.png" alt="Cover Image" width="850"/>
 </p>
 
 ### Hello! I'm Teresa! 👋
-
 ### 》About Me
 - 👩‍💻 Science enthusiast drawn to challenging and multidisciplinary projects
-- 🏢 Currently a **PhD student at the Department of Clinical Medicine, Center for Music in the Brain (MIB), Aarhus University**
+- 🏢 Currently a **PhD student at the Department of Clinical Medicine, Center for Music in the Brain, Aarhus University**
 - 🧠 Working on neuroscience and music (cognitive neuroscience, more specifically)
 - 🎓 Integrated Master’s degree in **Biomedical Engineering**, specializing in **Medical Informatics** from the **University of Minho**.
 - 📫 How to reach me: ateresaqueiroga@gmail.com
