@@ -1,4 +1,6 @@
-![Cover Image](./capa_linkedin_2.png)
+<p align="center">
+  <img src="./capa_linkedin_2.png" alt="Cover Image" width="600"/>
+</p>
 
 ## Hello! I'm Teresa! 👋
 
