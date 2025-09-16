@@ -10,21 +10,14 @@ Outside of work, I enjoy running (a lot) 🏃‍♀️, reading books 📚, worl
 
 ## 🛠 Skills
 **Languages & Frameworks:**  
-`Python` `MATLAB` `R` `HTML` `CSS`  
+`Python` `MATLAB` `R` `HTML` `CSS`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ateresaqueiroga&layout=compact&theme=radical)  
 
 **Tools & Platforms:**  
 `Git` `VS Code`  
 
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ateresaqueiroga&layout=compact&theme=radical)
-
----
-
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ateresaqueiroga)  
-
----
 
 ## 💬 A funny quote that hopefully makes sense for my repositories
 > *“Code is like humor. When you have to explain it, it’s bad.”*  
