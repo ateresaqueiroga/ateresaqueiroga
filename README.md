@@ -2,7 +2,7 @@
   <img src="./cropped_cover_page2.png" alt="Cover Image" width="900"/>
 </p>
 
-## Hello! I'm Teresa! 👋
+### Hello! I'm Teresa! 👋
 
 ### 》About Me
 - 👩‍💻 Science enthusiast drawn to challenging and multidisciplinary projects
