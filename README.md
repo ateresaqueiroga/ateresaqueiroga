@@ -3,7 +3,7 @@
 ### 》About Me
 - 👩‍💻 Science enthusiast drawn to challenging and multidisciplinary projects
 - 🏢 Currently a **PhD student at the Center for Music in the Brain (MIB), Aarhus University (Aarhus, Denmark)**
-- 🧠 Working on neuroscience and music (cognitive neuroscience, broadly speaking)
+- 🧠 Working on neuroscience and music (cognitive neuroscience, more specifically)
 - 🎓 Integrated Master’s degree in **Biomedical Engineering**, specializing in **Medical Informatics** from the **University of Minho (Braga, Portugal)**.
 - 📫 How to reach me: ateresaqueiroga@gmail.com
 
