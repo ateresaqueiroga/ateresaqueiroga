@@ -1,3 +1,5 @@
+![Cover Image](./capa_linkedin_2.png)
+
 ## Hello! I'm Teresa! 👋
 
 ### 》About Me
