@@ -16,7 +16,6 @@ Outside of work, I enjoy:
 ### 🛠 Skills
 **Languages & Frameworks:**  
 `Python` `MATLAB` `R` `HTML` `CSS`
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ateresaqueiroga&layout=compact&theme=radical)  
 
 **Tools & Platforms:**  
 `Git` `VS Code`  
