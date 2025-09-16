@@ -17,6 +17,6 @@
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ateresaqueiroga)  
 
-### 💬 A funny quote that hopefully makes sense for my repositories
+### 💬 A quote that hopefully makes sense for my repositories
 > *“Code is like humor. When you have to explain it, it’s bad.”*  
 > — Cory House
