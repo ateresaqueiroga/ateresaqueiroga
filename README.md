@@ -1,4 +1,4 @@
-## Hello! 👋 I'm Teresa
+## Hello! I'm Teresa! 👋
 
 ### 》About Me
 - 👩‍💻 Science enthusiast drawn to challenging and multidisciplinary projects
