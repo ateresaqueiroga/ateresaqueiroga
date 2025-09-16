@@ -1,13 +1,17 @@
 ## Hello! 👋 I'm Teresa
 
 ### 🔭 About Me
-Science enthusiast and Biomedical Engineer drawn to challenging and multidisciplinary projects.  
-Currently a **PhD student at the Center for Music in the Brain (MIB), Aarhus University**, working on neuroscience and music (cognitive neuroscience, broadly speaking) 🧠🎹.  
-Outside of work, I enjoy running (a lot) 🏃‍♀️, reading books 📚, worldwide postcard exchanges 📬, and balcony gardening 👩🏻‍🌾.  
+- 👩‍💻 Science enthusiast drawn to challenging and multidisciplinary projects
+- 🏢 Currently a **PhD student at the Center for Music in the Brain (MIB), Aarhus University (Aarhus, Denmark)**,
+- 🧠 Working on neuroscience and music (cognitive neuroscience, broadly speaking)
+- 🎓 Integrated Master’s degree in **Biomedical Engineering**, specializing in **Medical Informatics** from the **University of Minho (Braga, Portugal)**.
+- 📫 How to reach me: ateresaqueiroga@gmail.com
 
-
-🎓 Integrated Master’s degree in Biomedical Engineering, specializing in **Medical Informatics** from the University of Minho (Braga, Portugal).  
-📫 How to reach me: ateresaqueiroga@gmail.com
+Outside of work, I enjoy:
+- 🏃‍♀️ running (a lot)
+- 📚 reading books
+- 📬 worldwide postcard exchanges
+- 👩🏻‍🌾 balcony gardening  
 
 ### 🛠 Skills
 **Languages & Frameworks:**  
