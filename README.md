@@ -8,10 +8,10 @@
 - 📫 How to reach me: ateresaqueiroga@gmail.com
 
 ### 》Skills
-**Languages & Frameworks:**  
+**Languages & Frameworks**  
 `Python` `MATLAB` `R` `HTML` `CSS`
 
-**Tools & Platforms:**  
+**Tools & Platforms**  
 `Git` `VS Code`  
 
 ### 》Connect with me
