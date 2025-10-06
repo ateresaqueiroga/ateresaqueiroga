@@ -4,13 +4,14 @@
 
 ### Hello! I'm Teresa! 👋
 ### 》About Me
-- 👩‍💻 Science enthusiast drawn to challenging and multidisciplinary projects
-- 🏢 Currently a **PhD student at the Department of Clinical Medicine, Center for Music in the Brain, Aarhus University**
-- 🧠 Working on neuroscience and music (cognitive neuroscience, broadly speaking)
-- 🎓 Integrated Master’s degree in **Biomedical Engineering**, specializing in **Medical Informatics** from the **University of Minho**.
-- 📫 How to reach me: ateresaqueiroga@gmail.com
+- 👩‍💻 Science enthusiast drawn to challenging and multidisciplinary projects  
+- 🏢 Currently a **PhD student at the Department of Clinical Medicine, Center for Music in the Brain, Aarhus University**  
+- 🧠 Working on neuroscience and music (cognitive neuroscience, broadly speaking)  
+- 🎓 Integrated Master’s degree in **Biomedical Engineering**, specializing in **Medical Informatics** from the **University of Minho**  
+- 📫 How to reach me: ateresaqueiroga@gmail.com  
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ateresaqueiroga)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ateresaqueiroga)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2749--2995-brightgreen?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2749-2995)
 
 ### 》Skills
 **Languages & Frameworks**  
